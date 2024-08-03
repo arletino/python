@@ -1,0 +1,17 @@
+[RED] ;CRITICAL - 2024-07-19 16:21:20,879.; module: "argparse_set.argparse_set"; line: 019; function "checker_date"; at 1721395280.8791072; message: Input date wrong format fghfgh
+[RED] ;CRITICAL - 2024-07-19 16:22:42,338.; module: "argparse_set.argparse_set"; line: 019; function "checker_date"; at 1721395362.3388612; message: Input date wrong format fghfgh
+[RED] ;ERROR    - 2024-07-19 17:20:37,759.; module: "src.convert_date"; line: 053; function "parse_date"; at 1721398837.7596235; message: Weekday is wrong воскресенье
+NoneType: None
+[RED] ;ERROR    - 2024-07-19 17:32:04,701.; module: "src.convert_date"; line: 055; function "parse_date"; at 1721399524.7019808; message: Weekday is wrong воскресенье
+NoneType: None
+[RED] ;ERROR    - 2024-07-19 17:53:19,393.; module: "src.convert_date"; line: 043; function "check_year"; at 1721400799.393011; message: Year is too big or too small 123569
+NoneType: None
+[RED] ;ERROR    - 2024-07-19 17:53:45,714.; module: "src.convert_date"; line: 043; function "check_year"; at 1721400825.7145696; message: Year is too big or too small 123569
+NoneType: None
+[RED] ;ERROR    - 2024-07-19 17:53:55,179.; module: "src.convert_date"; line: 043; function "check_year"; at 1721400835.1799378; message: Year is too big or too small 123569
+NoneType: None
+[YELLOW] ;WARNING  - 2024-07-19 17:56:11,541.; module: "argparse_set.argparse_set"; line: 019; function "checker_date"; at 1721400971.5413818; message: Input date wrong format jkhkl
+[YELLOW] ;WARNING  - 2024-07-19 17:56:43,872.; module: "argparse_set.argparse_set"; line: 019; function "checker_date"; at 1721401003.8720553; message: Input date wrong format jkhkl
+[YELLOW] ;WARNING  - 2024-07-19 18:00:05,432.; module: "argparse_set.argparse_set"; line: 019; function "checker_date"; at 1721401205.4320517; message: Input date wrong format jkhkl
+[YELLOW] ;WARNING  - 2024-07-19 18:01:29,769.; module: "argparse_set.argparse_set"; line: 019; function "checker_date"; at 1721401289.769582; message: Input date wrong format jkhkl
+[YELLOW] ;WARNING  - 2024-07-19 18:19:01,015.; module: "argparse_set.argparse_set"; line: 017; function "checker_date"; at 1721402341.0152903; message: Input date wrong format 4-я воскресенье июля - y 2023
